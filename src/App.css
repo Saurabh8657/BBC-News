@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.hamburger-menu {
+    display: none;
+    cursor: pointer;
+    margin-left: 15px;
+  }
+  
+  .hamburger-bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    transition: all 0.3s ease;
+    background-color: rgb(233, 224, 224);
+  }
+  
