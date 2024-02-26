@@ -1,6 +1,6 @@
 # BBC News Clone
 
-![BBC News Clone Logo](./Screenshots/logo.png)
+![BBC News Clone Logo](./Screenshots/logo.jpg)
 
 ## Introduction
 Welcome to the BBC News Clone project, developed and maintained by Saurabh Ganguly. This project is a solo endeavor aimed at replicating the functionality and design of the renowned BBC News website, offering users a platform to access reliable and up-to-date news content.
