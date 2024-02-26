@@ -1,7 +1,8 @@
 import axios from "axios";
 
-// export const baseURL = "https://bcc-news-backend.onrender.com"  // pavan backend
-export const baseURL = "https://bbc-news-server.onrender.com"   // saurav backend
+export const baseURL = "https://bbc-news-server.onrender.com" ;   /// mine render
+// export const baseURL = "https://bcc-news-backend.onrender.com" ;    /// pavan render
+
 export const usersURL = `${baseURL}/users` ;
 
 export const sportsURL = `${baseURL}/sports` ;
