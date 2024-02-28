@@ -17,7 +17,7 @@ export const dashBoardURL = `${baseURL}/dashboard`;
 export async function addNewsToBookmark(bookmark,id) {
     try{
         let res = await axios.patch(`${dashBoardURL}/${id}`,{
-            bookmark
+          bookmark:bookmark
         })
         // let data = await res.json() ;
         console.log(res) ;
